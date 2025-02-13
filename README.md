@@ -7,6 +7,7 @@ This repository is a comprehensive resource for learning and applying Physics-In
 - [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
 - [Examples](#examples)
+[1D Burgers' Equation](examples/1D_Burgers/)
 - [Tutorials](#tutorials)
 - [Datasets](#datasets)
 - [Papers](#papers)
