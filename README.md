@@ -62,6 +62,7 @@ By balancing these losses, PINNs learn solutions that are both data-driven and p
 1. Clone the repository:
    
    git clone https://github.com/feifei796/PINNs-Repository.git
+
    cd PINNs-Repository
 
 2. Install dependencies:
